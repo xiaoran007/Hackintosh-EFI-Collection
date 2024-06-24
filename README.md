@@ -7,7 +7,7 @@
 
 
 # Index
-* [Thinkcentre M910X (Lenovo)]()
-* [Thinkcentre M910Q (Lenovo)]()
-* [ThinkPad T480 (Lenovo)]()
-* [X99-8MD3 (C612 Chipsets)]()
+* [Thinkcentre M910X (Lenovo)](https://github.com/xiaoran007/Thinkcentre-M910X-Hackintosh-OC-EFI)
+* [Thinkcentre M910Q (Lenovo)](https://github.com/xiaoran007/Thinkcentre-M910Q-Hackintosh-EFI-with-OC-0.9.7)
+* [ThinkPad T480 (Lenovo)](https://github.com/xiaoran007/Thinkpad-T480-Hackintosh)
+* [X99-8MD3 (C612 Chipsets)](https://github.com/xiaoran007/X99-8MD3-Hackintosh)
